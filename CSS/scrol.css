@@ -1,0 +1,20 @@
+@font-face {
+    font-family: super;
+    src: url(Super\ Dream.ttf);
+  }
+
+.scrol {
+    background-color: black;
+    color: white;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    font-family: super;
+  }
+
+  .scrol:hover {
+    background-color: white;
+    color: black;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    font-family: super;
+  }

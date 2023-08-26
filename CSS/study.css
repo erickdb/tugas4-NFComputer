@@ -1,0 +1,16 @@
+@font-face {
+    font-family: super;
+    src: url(Super\ Dream.ttf);
+  }
+ 
+  .judul{
+    font-family: super;
+    letter-spacing: 3px;
+  }
+
+  .table{
+    margin-top: 30px;
+  }
+  tbody {
+    font-size: 18px;
+  }
